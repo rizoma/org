@@ -26,9 +26,9 @@ La educación, que no es el título, sino la adquisición de habilidades que sir
 
 ## ¿Cómo... 
 
-### ... agregar a este documento (u otros)?
+### ... agregar a este documento ?
 
-Como el resto de la organización, este documento es sujeto a ser discutido y modificados por lxs miembrxs y personas externas. Si querés contribuir con algo [simplemente editá este archivo!](https://github.com/blog/905-edit-like-an-ace) (tip: podés usar [zen mode](https://github.com/blog/1379-zen-writing-mode) para una experiencia más cómoda).
+Como el resto de la organización, este documento es sujeto a ser discutido y modificados por lxs miembrxs y personas externas (más sobre este asunto abajo). Si querés contribuir con algo [simplemente ¡editá este archivo!](https://github.com/blog/905-edit-like-an-ace) (tip: podés usar [zen mode](https://github.com/blog/1379-zen-writing-mode) para una experiencia más cómoda).
 
 ### ...involucrarse?
 
@@ -57,7 +57,13 @@ Quienes además de participar como miembros quieran participar en el funcionamie
 
 ### ...nos comunicaremos?
 
-Toda la comunicación sobre decisiones, solicitudes de membresía o de cursos/proyectos será llevada a cabo públicamente en la organización de github. Las decisiones y tareas que hacer serán discutidas en los [_issues_ de la organización](https://github.com/rizoma/org/issues/new)
+__La principal herramienta de comunicación serán los [_issues_ de la organización](https://github.com/rizoma/org/issues)__. Allí se discutirán, por ejemplo:
+
+* Decisiones
+* Solicitudes de membresía o de cursos/proyectos
+* Tareas que hacer
+
+Cualquier entidad, miembro de la organización o no, es libre de crear un _issue_ para ser discutido. Asimismo, cualquier pieza de contenido, este documento, el sitio o los distintos cursos puede recibir propuestas de cambio a través de ["pull requests"](https://help.github.com/articles/using-pull-requests), a ser consideradas e integradas por los miembros involucrados en dicho contenido. 
 
 Toda la discusión relacionada a los proyectos de aprendizaje/práctica deberá llevarse también a cabo en los respectivos repositorios. 
 
