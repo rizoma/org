@@ -89,6 +89,7 @@ A continuación listo algunos de los proyectos, iniciativas y organizaciones que
 * [Gittip](https://www.gittip.com/about/), una organización que permite hacer donaciones (propinas) a personas que trabajan en código abierto. Su [toma de decisiones](https://github.com/gittip/www.gittip.com/issues), [proyectos](https://github.com/gittip), [estados financieros](https://www.gittip.com/about/charts.html) y hasta [discusiones de contratación](https://github.com/gittip/humans/issues) son abiertos y de dominio público. 
 * [The factory](http://workthefactory.com/colearning) otra iniciativa muy similar a Rizoma.
 * [code.org](http://www.code.org/), [codecademy](http://www.codecademy.com), [coursera](http://www.coursera.org) y [codeschool](http://www.codeschool.com), entre otros, lugares donde uno puede aprender por su cuenta
+* [GirlDevelopIt](http://www.meetup.com/Girl-Develop-It-San-Francisco/#upcoming), un grupo dedicado a dar oportunidades a mujeres que se interesan en aprender desarrollo web, con recursos como [teaching-materials](http://www.teaching-materials.org/),  
 
 ### Artículos
 
