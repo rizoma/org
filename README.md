@@ -15,6 +15,11 @@ Inicialmente, esto se traduce en un grupo inicial de personas que se comprometen
 * __dominio público__: todo curso o proyecto generado bajo Rizoma, y Rizoma mismo, está bajo el dominio público y es libre de ser copiado, modificado y utilizado por cualquier entidad. 
 * __beneficios__: cualquier contacto con el mundo "profesional" o "académico" son bienvenidos (e.g. conseguir empresas que estén dispuestas a contratar gente que haya tomado cursos aunque no tenga un título universitario) mientras ninguno de los anteriores principios sea comprometido. 
 
+## ¿Para quién?
+
+* __Gente que busca aprender__: Ya sea que __aprendás por tu cuenta__ y necesités un espacio donde poder disciplinarte un poco, y quizá encontrar otras personas que te ayuden con tus dudas; que prefirás un __grupo de estudio__ para aprender algo que encontrado en internet o que querás __llevar un curso__ de una habilidad específica bajo la tutela de alguien que ya la tenga, es un espacio para vos.
+* __Gente que quiera compartir conocimiento y habilidades__: si tenés, en cambio tiempo que donar (o, como se estipula arriba tenés ganas de enseñar pero necesitás algún estipendio) y tenés una habilidad que te gustaría compartir con otros para que tengan oportunidades que se te presentan a vos, podés involucrarte.
+* __Entidades que tengan proyectos en los cuales involucrar a otros__: si tenés una idea, una empresa o un proyecto en el cual podrías usar la ayuda de personas con habilidades aprendidas en Rizoma, sos bienvenido, siempre y cuando no se comprometan los principios de la organización y tengás la disposición de contribuir enseñando y ofrezcás oportunidades justas a los miembros. 
 
 ## ¿Por qué?
 
