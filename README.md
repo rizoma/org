@@ -10,7 +10,7 @@ Inicialmente, esto se traduce en un grupo inicial de personas que se comprometen
 
 * __Descentralización__: en la medida de lo posible, la toma de decisiones, la carga de las responsabilidades y los beneficios estarán distribuidos entre los participantes, evitando cualquier organización jerárquica.
 * __"Lean"__, cualquier iniciativa, sean proyectos o _cursos_, deberá ser diseñada de forma que pueda ser rápidamente puesta en marcha, previa breve discusión de lxs miembrxs; involucre la menor cantidad de costos y se pueda adaptar a cualquier retroalimentación. Esto también involucra la membresía: para poder involucrarse una persona tiene que ser capaz de demostrar su facultad de sacar provecho y crear provecho en el proyecto.
-* __Sin fines de lucro__: la contribución de lxs miembrxs deberá servir para mantener las operaciones en marcha, sin reportar utilidades a ningunx de los voluntarixs.
+* __Sin fines de lucro__: la contribución de lxs miembrxs deberá servir para mantener las operaciones en marcha, sin reportar utilidades a ningunx de los voluntarixs. Dado que algunos de los instructores podrían querer dedicar tiempo so pena de su propia sostenibilidad, es posible, en casos selectos sujetos al escrutinio de todos los miembros, que reciban un estipendio justo por sus esfuerzos.
 *  __cooperación__: se alienta a todxs lxs participantes a que, una vez adquiridas las habilidades que buscaban, encuentren la manera de crear cursos para enseñarlas a otros o proyectos para ponerlas, junto a otros, en práctica. 
 * __dominio público__: todo curso o proyecto generado bajo Rizoma, y Rizoma mismo, está bajo el dominio público y es libre de ser copiado, modificado y utilizado por cualquier entidad. 
 * __beneficios__: cualquier contacto con el mundo "profesional" o "académico" son bienvenidos (e.g. conseguir empresas que estén dispuestas a contratar gente que haya tomado cursos aunque no tenga un título universitario) mientras ninguno de los anteriores principios sea comprometido. 
@@ -68,5 +68,25 @@ Cualquier entidad, miembro de la organización o no, es libre de crear un _issue
 Toda la discusión relacionada a los proyectos de aprendizaje/práctica deberá llevarse también a cabo en los respectivos repositorios. 
 
 La comunicación privada a través de email u otros, a menos que sea imperativo, debería ser evitada: el propósito de mantener la discusión en un solo lugar público permite transparencia y exige compromiso.
+
+## ¿Qué ha inspirado a este proyecto?
+
+A continuación listo algunos de los proyectos, iniciativas y organizaciones que han inspirado la creación de Rizoma:
+
+
+### Proyectos e instituciones:
+
+* [General Assembly](http://generalassemb.ly/) : un "co-working" space en NYC (y ahora en muchas más ciudades) que se orienta a educar en habilidades específicas. Es con fines de lucro de modo que los cursos son accesibles para pocos, pero tiene como misión hacer disponible el conocimiento por una ínfima fracción de una educación universitaria.
+* ["CS for hackers"](http://cs4h.com/), un curso en General Assembly creado por [Ryan Witt](http://ryan.sh) en el cual yo (@lfborjas) colaboré durante el verano de 2012. Un ejemplo de un curso "grande" donde se enseña fuera del aula de clases. 
+* [Hackerschool](https://www.hackerschool.com/manual), un "experimento" en Brooklyn, NY donde los participantes se dedican a aprender por su cuenta y compartir lo que aprenden en un espacio dedicado durante tres meses. Al final, son considerados, si lo desean, para empleo entre las compañías que patrocinan la iniciativa
+* [Jumpstart Lab](http://jumpstartlab.com/), una organización que ofrece servicios de entrenamiento en habilidades específicas pero cuya currícula es completamente gratis para auto-estudio y de código abierto.
+* [Mendicant University](http://mendicantuniversity.org/), un lugar donde programadores se reúnen a participar en proyectos _reales_, con el propósito de aprender nuevas habilidades.
+* [Gittip](https://www.gittip.com/about/), una organización que permite hacer donaciones (propinas) a personas que trabajan en código abierto. Su [toma de decisiones](https://github.com/gittip/www.gittip.com/issues), [proyectos](https://github.com/gittip), [estados financieros](https://www.gittip.com/about/charts.html) y hasta [discusiones de contratación](https://github.com/gittip/humans/issues) son abiertos y de dominio público. 
+* [The factory](http://workthefactory.com/colearning) otra iniciativa muy similar a Rizoma.
+* [code.org](http://www.code.org/), [codecademy](http://www.codecademy.com), [coursera](http://www.coursera.org) y [codeschool](http://www.codeschool.com), entre otros, lugares donde uno puede aprender por su cuenta
+
+### Artículos
+
+* ["co-learning spaces" de Pamela Fox](http://blog.pamelafox.org/2013/03/co-learning-spaces.html)
 
 [1]: http://es.wikipedia.org/wiki/Rizoma_(filosof%C3%ADa) "Rizoma: según Deleuze y Guattari"
