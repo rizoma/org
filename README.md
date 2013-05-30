@@ -94,5 +94,7 @@ A continuación listo algunos de los proyectos, iniciativas y organizaciones que
 ### Artículos
 
 * ["co-learning spaces" de Pamela Fox](http://blog.pamelafox.org/2013/03/co-learning-spaces.html)
+* [Anuncio sobre el grupo de estudio de Dennis y Edwin](http://blog.udacity.com/2013/05/cs101-spanish-study-group.html)
+* [Artículo sobre el problema de la comercialización de los programas educativos](http://blog.regehr.org/archives/953)
 
 [1]: http://es.wikipedia.org/wiki/Rizoma_(filosof%C3%ADa) "Rizoma: según Deleuze y Guattari"
